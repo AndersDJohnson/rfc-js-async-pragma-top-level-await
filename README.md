@@ -2,7 +2,7 @@
 
 In order to use `await`, you need to be inside an `async` function.
 
-For scripting purposes, this is cumbersome:
+For scripting purposes, or at the top-level scope of a file, this is cumbersome:
 
 ```js
 
