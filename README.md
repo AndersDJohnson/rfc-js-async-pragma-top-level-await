@@ -36,7 +36,7 @@ const foo = await bar()
 or even a keyword:
 
 ```js
-async
+async;
 
 const foo = await bar()
 
